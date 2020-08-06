@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
-- 🔭 I’m currently working with **Breachlock Inc.**
+- 🔭 I’m currently working on multiple React and Node projects. 
 
 - 🌱 I’m currently learning **GraphQL**
 
