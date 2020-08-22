@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [krishankantray.com](https://krishankantray.com/)
 
-- 📝 I regulary write articles on [krishankantray.com](https://krishankantray.com/)
+- 📝 I regulary write articles on [krishankantray.com](https://krishankantray.com/) and [krishankantray.blogspot.com](https://krishankantray.blogspot.com/)
 
 - 💬 Ask me about **react, node, express, javascript, and C++**
 
