@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👨‍💻 All of my projects are available at [krishankantray.com](krishankantray.com)
+- 👨‍💻 All of my projects are available at [https://krishankantray.com/](krishankantray.com)
 
-- 📝 I regulary write articles on [krishankantray.com](krishankantray.com)
+- 📝 I regulary write articles on [https://krishankantray.com/](krishankantray.com)
 
 - 💬 Ask me about **react, node, express, javascript, and C++**
 
