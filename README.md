@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on multiple React and Node projects. 
 
-- 🌱 I’m currently learning **GraphQL**
-
 - 👨‍💻 All of my projects are available at [krishankantray.com](https://krishankantray.com/)
 
 - 📝 I regulary write articles on [krishankantray.com](https://krishankantray.com/) and [krishankantray.blogspot.com](https://krishankantray.blogspot.com/)
