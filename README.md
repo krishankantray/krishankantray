@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/wave.gif" width="25px">, I'm Krishankant</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/wave.gif" width="30px">, I'm Krishankant</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
