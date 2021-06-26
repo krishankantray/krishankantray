@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/kk_banner.jpg" max-width="100%">
+<!-- img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/kk_banner.jpg" max-width="100%" -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/wave.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
