@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on multiple React and Node projects. 
 
-- 👨‍💻 All of my projects are available at [bit.ly/kk-web](https://bit.ly/kk-web)
+- 👨‍💻 All of my projects are available at [https://krishankantray.github.io/](https://krishankantray.github.io/)
 
-- 📝 I regulary write articles on [bit.ly/kk-web](https://bit.ly/kk-web) and [krishankantray.blogspot.com](https://krishankantray.blogspot.com/)
+- 📝 I regulary write articles on [https://krishankantray.github.io/](https://krishankantray.github.io/) and [krishankantray.blogspot.com](https://krishankantray.blogspot.com/)
 
 - 💬 Ask me about **react, node, express, javascript, and C++**
 
