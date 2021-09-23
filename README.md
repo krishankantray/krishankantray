@@ -3,20 +3,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
-- 🔭 I’m currently working on multiple React and Node projects. 
-
 - 👨‍💻 All of my projects are available at [https://krishankantray.github.io/](https://krishankantray.github.io/)
 
-- 📝 I regulary write articles on [https://krishankantray.github.io/](https://krishankantray.github.io/) and [krishankantray.blogspot.com](https://krishankantray.blogspot.com/)
+- 📝 I regulary write articles on [https://krishankantray.github.io/](https://krishankantray.github.io/)
 
-- 💬 Ask me about **react, node, express, javascript, and C++**
+- 💬 Ask me about **algorithms, data-structures, problem-solving, system-design and software-development**
 
 - 📫 How to reach me **krishankant_rai@rediffmail.com**
 
-<img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=Github%20Stats" alt="Github-Stats" />
+<img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-<img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Most-Used-Languages" />
+<img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+<div/>
+
+### Recent Work
 
 <p align="center">
+<a href="https://github.com/krishankantray/krishankantray.github.io">
+<img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishankantray&repo=krishankantray.github.io&show_owner=true" />
+</a>
+<a href="https://github.com/krishankantray/blog-cms">
+<img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishankantray&repo=blog-cms&show_owner=true" />
+</a>
+ </p>
 
-</p>
+<hr>
+<div/>
