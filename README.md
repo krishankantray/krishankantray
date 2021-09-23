@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://krishankantray.github.io/](https://krishankantray.github.io/)
+- 👨‍💻 All of my projects are available at [krishankantray.github.io/projects](https://krishankantray.github.io/projects/)
 
-- 📝 I regulary write articles on [https://krishankantray.github.io/](https://krishankantray.github.io/)
+- 📝 I regulary write articles on [krishankantray.github.io](https://krishankantray.github.io/)
 
-- 💬 Ask me about **algorithms, data-structures, problem-solving, system-design and software-development**
+- 💬 Ask me about - 🟠 **Algorithms, Data Structures, 🟠 Problem Solving, 🟠 System Design and 🟠 Software Development**
 
 - 📫 How to reach me ✉️ **krishankant_rai@rediffmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
 
