@@ -11,10 +11,14 @@
 
 - 📫 How to reach me **krishankant_rai@rediffmail.com**
 
+<hr>
+<div/>
+
 <img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
+<hr>
 <div/>
 
 ### Recent Work
