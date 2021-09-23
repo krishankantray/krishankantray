@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **algorithms, data-structures, problem-solving, system-design and software-development**
 
-- 📫 How to reach me **krishankant_rai@rediffmail.com**
+- 📫 How to reach me **krishankant_rai@rediffmail.com** or <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center"</a>
 
 <hr>
 <div/>
