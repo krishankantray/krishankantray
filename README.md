@@ -19,15 +19,3 @@
 
 <hr>
 <div/>
-
-### Recent Work
-
-<p align="center">
-<a href="https://github.com/krishankantray/krishankantray.github.io">
-<img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishankantray&repo=krishankantray.github.io&show_owner=true" />
-</a>
-<a href="https://github.com/krishankantray/blog-cms">
-<img align="center" height="170" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishankantray&repo=blog-cms&show_owner=true" />
-</a>
- </p>
-
