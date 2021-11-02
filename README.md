@@ -1,4 +1,3 @@
-<!-- img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/kk_banner.jpg" max-width="100%" -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/wave.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
@@ -10,15 +9,11 @@
 - 💬 Ask me about - **🟠 Algorithms, 🟠 Data Structures, 🟠 Problem Solving, 🟠 System Design 🟠 Software Development**
 
 - 📫 How to reach me ✉️ **krishankant_rai@rediffmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
-
-<hr>
 <div/>
 
 <img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=krishankantray&theme=redical)
 
 <hr>
 <div/>
