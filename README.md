@@ -11,11 +11,11 @@
 - 📫 How to reach me ✉️ **krishankant_rai@rediffmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
 <div/>
 
-<img align="center" height="100%" width="95%" src="https://activity-graph.herokuapp.com/graph?username=krishankantray&theme=redical">
+<img align="center" height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=krishankantray&theme=redical">
 
-<img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=radical&count_private=true&title_color=fff" />
 
-<img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="center" height="170" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=radical&title_color=fff" />
 
 <hr>
 <div/>
