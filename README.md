@@ -17,7 +17,7 @@
 <img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=dark&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <img align="center" height="170" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
+[![Krishankant's github activity graph](https://activity-graph.herokuapp.com/graph?username=krishankantray&bg_color=f5a8d1&color=e4c98&line=9e3397&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 <div/>
 
