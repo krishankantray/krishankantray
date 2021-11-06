@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://krishankant.in/projects/" target="_blank">krishankant.in/projects</a>
-
 - 📝 I regulary write articles on <a href="https://krishankant.in/" target="_blank">krishankant.in</a>
 
 - 💬 Ask me about - **🟠 Algorithms, 🟠 Data Structures, 🟠 Problem Solving, 🟠 System Design 🟠 Software Development**
