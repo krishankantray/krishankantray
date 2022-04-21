@@ -6,11 +6,11 @@
 
 - 💬 Ask me about - 
 <br/>
-**🟠 Algorithms <br/>
+🟠 Algorithms <br/>
 🟠 Data Structures <br/>
 🟠 Problem Solving <br/>
 🟠 System Design <br/>
-🟠 Software Development <br/> **
+🟠 Software Development <br/>
 
 - 📫 How to reach me ✉️ **krishankant_rai@rediffmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
 <div/>
