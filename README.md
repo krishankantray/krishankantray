@@ -4,8 +4,7 @@
 
 - 📝 I regulary write articles on <a href="https://krishankant.in/" target="_blank">krishankant.in</a>
 
-- 💬 Ask me about - 
-<br/>
+- 💬 Ask me about -
 🟠 Algorithms <br/>
 🟠 Data Structures <br/>
 🟠 Problem Solving <br/>
