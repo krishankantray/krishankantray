@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi <img src="https://tenor.com/4MQu.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
