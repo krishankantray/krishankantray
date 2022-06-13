@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px" height="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
