@@ -22,6 +22,11 @@
 
 <hr>
 
+### LEETCODE STATS
+<img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=krishankantray&theme=dark" width="400"/>
+
+<hr>
+
 ### SKILLS
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
