@@ -19,7 +19,7 @@
 <img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=radical&count_private=true&title_color=fff" />
 
 <img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=radical&title_color=fff" />
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr>
 
 ### SKILLS
