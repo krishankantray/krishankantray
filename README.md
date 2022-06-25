@@ -21,4 +21,8 @@
 <img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=radical&title_color=fff" />
 
 <hr>
+
+### SKILLS
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 <div/>
