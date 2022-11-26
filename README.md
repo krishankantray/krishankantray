@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 
-- 📝 I regulary write articles on <a href="https://krishankant.in/blog" target="_blank">krishankant.in</a>
+- 📝 I regulary write articles on <a href="https://krishankant.in/blog" target="_blank">krishankant.in/blog</a>
 
 - 💬 Ask me about - <br/>
 🔸 Algorithms <br/>
