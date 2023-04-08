@@ -30,7 +30,7 @@
 <hr>
 
 ### Typing Speed
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D38wpm%26label%3DAverage-Speed%26logoVariant%3Dapollographql
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D38wpm%26label%3DAverage-Speed%26logoVariant%3Done
 
 [![monkeytype.badge]](https://monkeytype.com/)
 
