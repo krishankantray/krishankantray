@@ -24,7 +24,7 @@ jobs:
           mode2: '30'
           # not required with default:
           style: 'for-the-badge' # option from shields.io
-          logoVariant: 'apollographql'
+          namedLogo: 'apollographql'
           label: 'Average-Speed'
           color: '008080'
           logoColor: 'green'
