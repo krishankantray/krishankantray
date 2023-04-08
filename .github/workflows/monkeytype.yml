@@ -23,7 +23,9 @@ jobs:
           mode: 'time'
           mode2: '30'
           # not required with default:
-          style: 'flat' # option from shields.io
-          logoVariant: 'one'
-          label: 'monkeytype'
+          style: 'for-the-badge' # option from shields.io
+          logoVariant: 'apollographql'
+          label: 'Average speed'
+          color: 'rgb(0,128,128)'
+          logoColor: 'green'
   # outputs badge_url should you need to use that in later steps
