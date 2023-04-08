@@ -25,7 +25,7 @@ jobs:
           # not required with default:
           style: 'for-the-badge' # option from shields.io
           logoVariant: 'apollographql'
-          label: 'Average speed'
+          label: 'Average-Speed'
           color: 'rgb(0,128,128)'
           logoColor: 'green'
   # outputs badge_url should you need to use that in later steps
