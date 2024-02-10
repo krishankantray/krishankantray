@@ -15,15 +15,13 @@
 <div/>
 
 <br/>
-  
+<!--- Line Graph of contributions  -->
 <img align="center" height="100%" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishankantray&bg_color=3f444a&color=6cd5ea&line=75ead7&point=403d3d&area=true&hide_border=true">
 
 <br/>
-
+<!--- counts  -->
 <img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=solarized-dark&count_private=true&title_color=fff" />
-
-<br/>
-
+<!--- Most Used Language  -->
 <img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=solarized-dark&title_color=fff" />
 
 <hr>
