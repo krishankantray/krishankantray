@@ -13,7 +13,7 @@
 🔸 System Design <br/>
 🔸 Software Development <br/>
 
-- 📫 How to reach me ✉️ **krishankant_rai@rediffmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
+- 📫 How to reach me ✉️ **krishankant.1561@gmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
 <div/>
 
 <br>
