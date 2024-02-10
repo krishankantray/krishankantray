@@ -16,7 +16,7 @@
 
 <br>
 <!--- Line Graph of contributions  -->
-<img align="center" height="100%" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishankantray&bg_color=002b36&color=6cd5ea&line=75ead7&point=403d3d&area=true&hide_border=true">
+<img align="center" height="100%" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishankantray&bg_color=002b36&color=f7f7f7&line=d1c680&point=f1f28c&area=true&hide_border=true">
 
 <br><br>
 <!--- counts  -->
