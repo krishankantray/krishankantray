@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50px" height="50px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
-<img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" />
+<!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" /> -->
+<img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/ezgif-7-21bd5eaff1.gif" width="190" />
 
 - 📝 I regulary write articles on <a href="https://krishankant.in/blog" target="_blank">krishankant.in/blog</a>
 
