@@ -30,7 +30,7 @@
 
 ### LEETCODE STATS
 <img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/krishankantray?theme=nord&font=&extension=null" width="400"/>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishankantray?theme=nord&font=Fira%20Mono&ext=heatmap)
 <hr>
 
 ### Typing Speed
