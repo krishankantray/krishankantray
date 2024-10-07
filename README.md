@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50px" height="50px"></h1>
+<h1 align="center"> <img src="https://d2avsfbape3qq3.cloudfront.net/misc/hi.png" width="50px" height="50px"> <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50px" height="50px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" /> -->
