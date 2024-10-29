@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://d2avsfbape3qq3.cloudfront.net/misc/github_homepage_hi.png" width="50px" height="50px"></h1>
+<h1 align="center"> <img src="https://d2avsfbape3qq3.cloudfront.net/misc/github_homepage_hi.png"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" /> -->
