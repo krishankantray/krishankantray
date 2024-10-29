@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" /> -->
 
-<img align="right" alt="PC GIF" src="https://d2avsfbape3qq3.cloudfront.net/misc/pix_monkey_2.png" width="190" />
+<img align="right" alt="PC GIF" src="https://d2avsfbape3qq3.cloudfront.net/misc/github_homepage_avatar.png" width="190" />
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/ezgif-7-21bd5eaff1.gif" width="190" /> -->
 
 - 📝 I regulary write articles on <a href="https://krishankant.in/blog" target="_blank">krishankant.in/blog</a>
