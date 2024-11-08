@@ -1,12 +1,12 @@
 <h1 align="center"> <img src="https://d2avsfbape3qq3.cloudfront.net/misc/github_homepage_hi.png" width="70"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray" alt="krishankantray" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishankantray&color=orange" alt="krishankantray" /> </p>
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/old_pc.gif" width="190" /> -->
 
 <img align="right" alt="PC GIF" src="https://d2avsfbape3qq3.cloudfront.net/misc/github_homepage_avatar.png" width="290" />
 <!-- <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/krishankantray/krishankantray/master/ezgif-7-21bd5eaff1.gif" width="190" /> -->
 
-- 📝 I regulary write articles on <a href="https://krishankant.in/blog" target="_blank">krishankant.in/blog</a>
+- 📝 I regulary write articles on <a href="https://link.krishankant.in/blog" target="_blank">krishankant.in/blog</a>
 
 - 💬 Ask me about - <br/>
 🔸 Algorithms <br/>
