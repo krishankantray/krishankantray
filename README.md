@@ -18,13 +18,7 @@
 - 📫 How to reach me ✉️ **krishankant.1561@gmail.com** or on <a href="https://www.linkedin.com/in/krishankantray/" target="blank"><img src="linkedin.png" height="20" width="20" align="center" /> LinkedIn</a>
 <div/>
 
-<br>
-<!--- Line Graph of contributions  -->
-<img align="center" height="100%" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishankantray&bg_color=002b36&color=f7f7f7&line=d1c680&point=f1f28c&area=true&hide_border=true">
-
 <br><br>
-<!--- counts  -->
-<img align="center" height="170" width="57%" src="https://github-readme-stats.vercel.app/api?username=krishankantray&show_icons=true&theme=solarized-dark&count_private=true&title_color=fff" />
 <!--- Most Used Language  -->
 <img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=solarized-dark&title_color=fff" />
 
@@ -32,14 +26,7 @@
 
 ### LEETCODE STATS
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/krishankantray?theme=nord&font=Fira%20Mono)
-
-<hr>
-
-### Typing Speed
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D38wpm%26label%3DAverage-Speed%26logoVariant%3Done
-
-[![monkeytype.badge]](https://monkeytype.com/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishankantray?theme=nord&font=Fira%20Mono#gh-dark-mode-only)
 
 <hr>
 
