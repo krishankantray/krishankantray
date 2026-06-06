@@ -19,14 +19,11 @@
 <div/>
 
 <br><br>
-<!--- Most Used Language  -->
-<img align="center" height="170" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishankantray&hide=html,css,yacc,lex&langs_count=6&layout=compact&theme=solarized-dark&title_color=fff" />
-
 <hr>
 
 ### LEETCODE STATS
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/krishankantray?theme=nord&font=Fira%20Mono#gh-dark-mode-only)
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishankantray?theme=nord&font=Fira%20Mono)
 
 <hr>
 
